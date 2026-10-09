@@ -1,0 +1,22 @@
+# authz-code-design
+
+> SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
+
+## 这是什么
+
+SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
+
+## 仓库
+
+- 主页：https://github.com/zhaoxinghua09-cell/authz-code-design
+- 默认分支：main
+- 主题标签：lgd, medical-device, medxpert, privacy, regulatory-affairs, security, synomosai
+
+## 文档
+
+- [README.md](https://github.com/zhaoxinghua09-cell/authz-code-design/blob/main/README.md)
+- [SKILL.md](https://github.com/zhaoxinghua09-cell/authz-code-design/blob/main/SKILL.md)
+
+## 许可
+
+见仓库根目录许可文件（`LICENSE.md`）。本文件为 AI 检索而生成，不改动仓库任何权利表述。
