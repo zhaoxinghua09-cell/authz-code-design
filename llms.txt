@@ -1,21 +1,26 @@
 # authz-code-design
 
-> SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
+> authz code design — SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
 
 ## 这是什么
 
-SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
+authz code design — SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
 
 ## 仓库
 
 - 主页：https://github.com/zhaoxinghua09-cell/authz-code-design
 - 默认分支：main
-- 主题标签：lgd, medical-device, medxpert, privacy, regulatory-affairs, security, synomosai
+- 主题标签：agent-skills, automation, cli, documentation, knowledge-base, lgd, medical-device, medxpert, offline-first, open-source, privacy, prompt-engineering, python, regulatory-affairs, security, self-hosted, synomosai
 
 ## 文档
 
 - [README.md](https://github.com/zhaoxinghua09-cell/authz-code-design/blob/main/README.md)
+- [README.en.md](https://github.com/zhaoxinghua09-cell/authz-code-design/blob/main/README.en.md)
 - [SKILL.md](https://github.com/zhaoxinghua09-cell/authz-code-design/blob/main/SKILL.md)
+- [AGENTS.md](https://github.com/zhaoxinghua09-cell/authz-code-design/blob/main/AGENTS.md)
+- [SECURITY.md](https://github.com/zhaoxinghua09-cell/authz-code-design/blob/main/SECURITY.md)
+- [CONTRIBUTING.md](https://github.com/zhaoxinghua09-cell/authz-code-design/blob/main/CONTRIBUTING.md)
+- [CITATION.cff](https://github.com/zhaoxinghua09-cell/authz-code-design/blob/main/CITATION.cff)
 
 ## 许可
 
