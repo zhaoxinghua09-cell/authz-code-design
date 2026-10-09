@@ -6,6 +6,24 @@
 [![Security](https://img.shields.io/badge/security-policy-orange.svg)](SECURITY.md)
 [![Citable](https://img.shields.io/badge/cite-CITATION.cff-8a2be2.svg)](CITATION.cff)
 
+> [![License](https://img.shields.io/badge/License-LICENSE.md-yellow.svg)](LICENSE.md)
+
+## 概览 · Overview
+
+设计安全授权码 / 本地凭据 broker 的可复用方法论，用于回答「怎么给 AI 发临时权限」「密钥别进模型上下文怎么办」「授权能不能一键收回」这类问题
+
+---
+
+## 原始说明（未改动）
+
+# 授权码与本地凭据 Broker 设计
+
+[![License](https://img.shields.io/badge/License-LICENSE.md-yellow.svg)](LICENSE.md)
+[![Agent Ready](https://img.shields.io/badge/AI--friendly-llms.txt-blue.svg)](llms.txt)
+[![Docs](https://img.shields.io/badge/docs-AGENTS.md-2ea44f.svg)](AGENTS.md)
+[![Security](https://img.shields.io/badge/security-policy-orange.svg)](SECURITY.md)
+[![Citable](https://img.shields.io/badge/cite-CITATION.cff-8a2be2.svg)](CITATION.cff)
+
 > - **权利状态**：本仓库以 **MIT 许可** 许可发布，可依该许可证条款自由使用、修改与再分发。
 
 ## 🚀 快速开始 / Quick Start
@@ -71,3 +89,68 @@ SynomosAI 四支柱体系：**身份（Identity）· 溯源（Traceability）· 
 ├── references
 ├── tools
 ```
+
+## 仓库内容
+
+```
+├── AGENTS.md
+├── CITATION.cff
+├── CONTRIBUTING.md
+├── LICENSE.md
+├── README.en.md
+├── README.md
+├── SECURITY.md
+├── SKILL.md
+├── llms-full.txt
+├── llms.txt
+├── manifest.json
+├── references
+├── tools
+```
+
+## 检索元数据 · Metadata
+
+```json
+{
+ "repository": "zhaoxinghua09-cell/authz-code-design",
+ "topics": [
+  "agent-skills",
+  "automation",
+  "cli",
+  "documentation",
+  "knowledge-base",
+  "lgd",
+  "medical-device",
+  "medxpert",
+  "offline-first",
+  "open-source",
+  "privacy",
+  "prompt-engineering",
+  "python",
+  "regulatory-affairs",
+  "security",
+  "self-hosted",
+  "synomosai"
+ ],
+ "license": "MIT",
+ "default_branch": "main",
+ "size_kb": 31
+}
+```
+
+## 文档族 · Documentation set
+
+| 文件 | 用途 |
+|---|---|
+| `README.md` | 权威说明（本文件） |
+| `README.en.md` | 英文摘要 |
+| `AGENTS.md` | 给 AI Agent 的使用指引与硬约束 |
+| `llms.txt` | AI 检索索引 |
+| `llms-full.txt` | 完整摄入（含原始 README 全文） |
+| `SECURITY.md` | 安全策略 |
+| `CONTRIBUTING.md` | 贡献指引 |
+| `CITATION.cff` | 引用信息 |
+
+## 引用 · Citation
+
+仓库提供 `CITATION.cff`，可按其中格式引用。权利主体与许可以下方「许可说明」及仓库根目录许可文件为准。
