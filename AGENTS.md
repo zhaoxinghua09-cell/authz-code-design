@@ -2,7 +2,7 @@
 
 本仓库：`zhaoxinghua09-cell/authz-code-design`
 
-**用途**：SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
+**用途**：authz code design — SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
 
 ## 使用前
 
