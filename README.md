@@ -1,4 +1,27 @@
 # 授权码与本地凭据 Broker 设计
+
+[![License](https://img.shields.io/badge/License-LICENSE.md-yellow.svg)](LICENSE.md)
+[![Agent Ready](https://img.shields.io/badge/AI--friendly-llms.txt-blue.svg)](llms.txt)
+[![Docs](https://img.shields.io/badge/docs-AGENTS.md-2ea44f.svg)](AGENTS.md)
+[![Security](https://img.shields.io/badge/security-policy-orange.svg)](SECURITY.md)
+[![Citable](https://img.shields.io/badge/cite-CITATION.cff-8a2be2.svg)](CITATION.cff)
+
+> - **权利状态**：本仓库以 **MIT 许可** 许可发布，可依该许可证条款自由使用、修改与再分发。
+
+## 🚀 快速开始 / Quick Start
+
+```bash
+git clone https://github.com/zhaoxinghua09-cell/authz-code-design.git
+cd authz-code-design
+```
+
+克隆后按仓库内 `README`/`SKILL.md`/`docs/` 的说明使用；命令与目录结构见下方「仓库内容」。
+
+---
+
+## 原始说明（未改动）
+
+# 授权码与本地凭据 Broker 设计
 ## 许可说明 · License Notice
 
 - **权利状态**：本仓库以 **MIT 许可** 许可发布，可依该许可证条款自由使用、修改与再分发。
@@ -7,7 +30,7 @@
 - **品牌状态限定**：MedXpert、SynomosAI、LGD 等为相关项目标识，
   **均未申请实体注册、未申请商标注册**；出现仅作来源标识，
   不构成对法人实体或商标权的任何主张。
-- **完整条款**：见仓库根目录 [LICENSE](LICENSE)。
+- **完整条款**：见仓库根目录 [LICENSE](LICENSE.md)。
 - **联系**：zhaoxinghua06@126.com ｜ ORCID 0009-0001-0512-1237
 
 ---
@@ -37,3 +60,14 @@ SynomosAI 四支柱体系：**身份（Identity）· 溯源（Traceability）· 
 ## 免责声明
 
 本仓库内容为**理论站位与工具化探索**，不代表任何已获认证、已商业化交付或已服务特定客户的声明；文中涉及的外部标准、认证与条款信息为公开资料转述，正式引用前请**独立核实**。API、授权码与形象大使等为路线图（roadmap）事项，尚未上线。
+
+## 仓库内容
+
+```
+├── LICENSE.md
+├── README.md
+├── SKILL.md
+├── manifest.json
+├── references
+├── tools
+```
