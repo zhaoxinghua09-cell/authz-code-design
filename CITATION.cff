@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "authz-code-design"
+abstract: "SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT"
+authors:
+  - name: "See the repository and its license file for the rights holder"
+version: "2026"
+date-released: "2026-01-01"
+repository-code: "https://github.com/zhaoxinghua09-cell/authz-code-design"
+keywords:
+  - lgd
+  - medical-device
+  - medxpert
+  - privacy
+  - regulatory-affairs
+  - security
+  - synomosai
+
+# 说明：作者/权利主体以仓库自身声明为准（本文件由可发现性增强生成，未改动任何权利表述）。
