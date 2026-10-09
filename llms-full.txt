@@ -7,15 +7,25 @@
 ```json
 {
  "full_name": "zhaoxinghua09-cell/authz-code-design",
- "description": "SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT",
+ "description": "authz code design — SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT",
  "homepage": "",
  "topics": [
+  "agent-skills",
+  "automation",
+  "cli",
+  "documentation",
+  "knowledge-base",
   "lgd",
   "medical-device",
   "medxpert",
+  "offline-first",
+  "open-source",
   "privacy",
+  "prompt-engineering",
+  "python",
   "regulatory-affairs",
   "security",
+  "self-hosted",
   "synomosai"
  ],
  "license": "MIT",
@@ -25,6 +35,29 @@
 ```
 
 ## 原始 README（仅修复失效本地链接，其余逐字保留）
+
+# 授权码与本地凭据 Broker 设计
+
+[![License](https://img.shields.io/badge/License-LICENSE.md-yellow.svg)](LICENSE.md)
+[![Agent Ready](https://img.shields.io/badge/AI--friendly-llms.txt-blue.svg)](llms.txt)
+[![Docs](https://img.shields.io/badge/docs-AGENTS.md-2ea44f.svg)](AGENTS.md)
+[![Security](https://img.shields.io/badge/security-policy-orange.svg)](SECURITY.md)
+[![Citable](https://img.shields.io/badge/cite-CITATION.cff-8a2be2.svg)](CITATION.cff)
+
+> - **权利状态**：本仓库以 **MIT 许可** 许可发布，可依该许可证条款自由使用、修改与再分发。
+
+## 🚀 快速开始 / Quick Start
+
+```bash
+git clone https://github.com/zhaoxinghua09-cell/authz-code-design.git
+cd authz-code-design
+```
+
+克隆后按仓库内 `README`/`SKILL.md`/`docs/` 的说明使用；命令与目录结构见下方「仓库内容」。
+
+---
+
+## 原始说明（未改动）
 
 # 授权码与本地凭据 Broker 设计
 ## 许可说明 · License Notice
@@ -65,6 +98,17 @@ SynomosAI 四支柱体系：**身份（Identity）· 溯源（Traceability）· 
 ## 免责声明
 
 本仓库内容为**理论站位与工具化探索**，不代表任何已获认证、已商业化交付或已服务特定客户的声明；文中涉及的外部标准、认证与条款信息为公开资料转述，正式引用前请**独立核实**。API、授权码与形象大使等为路线图（roadmap）事项，尚未上线。
+
+## 仓库内容
+
+```
+├── LICENSE.md
+├── README.md
+├── SKILL.md
+├── manifest.json
+├── references
+├── tools
+```
 
 ## 许可
 
