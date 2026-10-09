@@ -6,7 +6,7 @@
 [![Security](https://img.shields.io/badge/security-policy-orange.svg)](SECURITY.md)
 [![Citable](https://img.shields.io/badge/cite-CITATION.cff-8a2be2.svg)](CITATION.cff)
 
-> SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
+> authz code design — SynomosAI skill - authz-code-design - (c) 2026 SynomosAI - MIT
 
 ## Quick Start
 
