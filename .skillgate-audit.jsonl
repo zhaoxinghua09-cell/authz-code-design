@@ -1,0 +1,3 @@
+{"timestamp": "2026-11-03T10:59:26.134854", "action": "scan", "skill_name": "authz-code-design", "skill_dir": "D:\\Doubao\\skillgate-rollout\\satellites\\authz-code-design", "trust_score": 82, "grade": "A", "findings_count": 8, "rule_version": "v3.0.0"}
+{"timestamp": "2026-11-03T11:43:11.749714", "action": "scan", "skill_name": "authz-code-design", "skill_dir": "D:\\Doubao\\skillgate-rollout\\satellites\\authz-code-design", "trust_score": 82, "grade": "A", "findings_count": 8, "rule_version": "v3.0.0"}
+{"timestamp": "2026-11-03T13:20:06.323020", "action": "scan", "skill_name": "authz-code-design", "skill_dir": "D:\\Doubao\\skillgate-rollout\\satellites\\authz-code-design", "trust_score": 97, "grade": "A+", "findings_count": 7, "rule_version": "v3.0.0"}

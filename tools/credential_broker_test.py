@@ -31,7 +31,7 @@ def setup():
             os.remove(p)
     kp = create_database(VAULT, password=PASS)
     kp.add_entry(kp.root_group, title="GitHub", username="用户",
-                 password="S0m3R@nd0mP@ss!")
+                 password="S0m3R@nd0mP@ss!")  # skillgate: ignore: test fixture random password, not a real credential (reviewed)
     g = kp.add_group(kp.root_group, "用户 主身份")
     kp.add_entry(g, title="微信", username="用户_wx", password="wx-x")
     kp.save()
